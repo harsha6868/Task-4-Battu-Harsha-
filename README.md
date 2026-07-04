@@ -25,6 +25,7 @@ The project began with UFW not installed on the target Kali Linux system. This r
 
 ## Make UFW start on boot using following command:
 `sudo systemctl enable ufw`
+
 <img width="503" height="346" alt="image" src="https://github.com/user-attachments/assets/417fe626-c1a7-43cc-8ff8-b41295d236e0" />
 
 ## Enable logging to monitor firewall activity with the command:
