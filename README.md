@@ -17,16 +17,15 @@ The project began with UFW not installed on the target Kali Linux system. This r
 
 ## Installing UFW in linux using the command:
 `sudo apt update && sudo apt install ufw`
+<img width="512" height="346" alt="image" src="https://github.com/user-attachments/assets/a9460436-2f92-4382-8912-2deb0e9a90ff" />
 
-![install](installingufw.png)
 ##  Enabling UFW using the command:
-`sudo ufw enable`
+<img width="500" height="347" alt="image" src="https://github.com/user-attachments/assets/56f44eb5-b41c-4e9c-affd-e58329d342a3" />
 
-![enable](enablingufw.png)
 ## Make UFW start on boot using following command:
 `sudo systemctl enable ufw`
+<img width="503" height="346" alt="image" src="https://github.com/user-attachments/assets/417fe626-c1a7-43cc-8ff8-b41295d236e0" />
 
-![boot](enablestartupufw.png)
 ## Enable logging to monitor firewall activity with the command:
 `sudo ufw logging on`
 ## Set Default policy in UFW by command:
@@ -36,12 +35,11 @@ The project began with UFW not installed on the target Kali Linux system. This r
 ##  Allow SSH Access (Port 22) by command:
 `sudo ufw allow ssh`
 ## Test firewall rules by following command: 
-`telnet localhost 23`  Or `sudo netstat -tlnp` 
-![test](testingfromother.png)
+<img width="511" height="345" alt="image" src="https://github.com/user-attachments/assets/802fa1d0-9429-4ea4-9a03-9a15667026f1" />
+
 
 ## Success end Result
-![result](resultufw.png)
----
+<img width="509" height="346" alt="image" src="https://github.com/user-attachments/assets/8f3dffe9-5acc-4256-89cb-515350626a8e" />
 
 # Security Impact Assessment:
 
