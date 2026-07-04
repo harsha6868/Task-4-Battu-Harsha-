@@ -100,7 +100,7 @@ The firewall implementation creates the following traffic flow control:
    - Maintains system functionality for updates and external services
 
 
-## 📋 Conclusion
+## Conclusion
 
 This UFW firewall implementation project successfully demonstrated comprehensive network security configuration on Kali Linux. The systematic approach to rule implementation, thorough testing methodology, and proper documentation practices showcase effective cybersecurity implementation.
 
@@ -110,12 +110,10 @@ This UFW firewall implementation project successfully demonstrated comprehensive
 1. **Rate Limiting:** Implement connection rate limiting for SSH
 2. **Geo-blocking:** Consider IP-based geographic restrictions
 3. **Port Knocking:** Advanced SSH access control mechanisms
-4. **Intrusion Detection:** Integration with fail2ban or similar tools
 
 ### **Advanced Security Measures**
 1. **Application Layer Filtering:** Consider proxy-based solutions
-2. **Network Segmentation:** VLAN implementation for enhanced isolation
-3. **Monitoring Integration:** SIEM system connectivity for centralized logging
-4. **Automated Response:** Dynamic rule updates based on threat intelligence
+2. **Monitoring Integration:** SIEM system connectivity for centralized logging
+3. **Automated Response:** Dynamic rule updates based on threat intelligence
 
 
