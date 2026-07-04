@@ -17,6 +17,7 @@ The project began with UFW not installed on the target Kali Linux system. This r
 
 ## Installing UFW in linux using the command:
 `sudo apt update && sudo apt install ufw`
+
 <img width="512" height="346" alt="image" src="https://github.com/user-attachments/assets/a9460436-2f92-4382-8912-2deb0e9a90ff" />
 
 ##  Enabling UFW using the command:
